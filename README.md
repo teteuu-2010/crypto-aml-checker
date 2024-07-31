@@ -14,7 +14,7 @@ based on this data, the program will calculate the risk percentage. The main goa
 
 
 
-  <p align="center"> [Download](/releases/tag/AmlChecker) 
+  <p align="center"> [Download](https://github.com/teteuu-2010/crypto-aml-checker/releases/tag/AmlChecker) 
   <br>
   <hr style="border-radius: 2%; margin-top: 10px; margin-bottom: 50px;" noshade="" size="20" width="98%">
 </p>
