@@ -25,6 +25,8 @@ After starting the program, select the type of wallet address of the wallet, to 
 Then enter the wallet address you want to verify or the transaction hash of where the recipient's address will be located.
 The program will begin to calculate the risk of the AML wallet address, after calculation the risk percentage from 0 to 100 will be displayed.
 
+![menu](/assets/menu.jpg)
+
 
 ![example](/assets/example.jpg)
 
