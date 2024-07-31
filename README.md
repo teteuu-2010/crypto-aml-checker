@@ -1,5 +1,3 @@
-# crypto-aml-checker
-
 # Crypto Aml Checker Bot
 
 A money laundering check(AML) is a type of identity check used to determine whether a person is 
