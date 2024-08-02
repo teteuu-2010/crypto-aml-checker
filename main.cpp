@@ -1,5 +1,3 @@
-// my github: https://github.com/Fyhtin
-// repository: https://github.com/Fyhtin/Crypto-Aml-Checker-Bot
 
 #include <iostream>
 #include "checker.h"
