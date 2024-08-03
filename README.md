@@ -33,7 +33,6 @@ The program will begin to calculate the risk of the AML wallet address, after ca
 
 # Disclaimer
 This program is for educational purposes only. I am not responsible for your illegal actions with this program.
-If you downloaded an archive with a password in a release, then this repository is copied and all files will contain a virus.
 
 
 # Reporting Issues
